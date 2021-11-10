@@ -1,0 +1,88 @@
+.ARA {
+    display:flex;
+    align-items:center;
+    justify-content:space-evenly;
+}
+
+.Qualites {
+    height: 180.5px;
+    margin-right: 20px;
+    margin-left: 45px;
+    box-shadow: 10px 10px 10px rgb(128 128 128);
+    border-radius: 30px;
+    text-align: center;
+    width: 40%;
+    transition: box-shadow 2s;
+    float: left;
+    background-color: darkred;
+}
+    .Qualites:hover {
+        box-shadow: 10px 10px 10px rgb(255 0 0);
+    }
+
+.DetailsPersonnels {
+    height: 220.10px;
+    margin-right: 30px;
+    margin-left: 50px;
+    box-shadow: 10px 10px 10px rgb(128 128 128);
+    border-radius: 30px;
+    text-align: center;
+    width: 40%;
+    transition: box-shadow 2s;
+    float: left;
+    background-color: darkred;
+}
+    .DetailsPersonnels:hover {
+        box-shadow: 10px 10px 10px rgb(255 0 0);
+    }
+
+.Formations {
+    height: 330.10px;
+    margin-right: 20px;
+    margin-left: 45px;
+    box-shadow: 10px 10px 10px rgb(128 128 128);
+    border-radius: 30px;
+    text-align: center;
+    width: 40%;
+    transition: box-shadow 2s;
+    float: right;
+    background-color: darkred;
+}
+    .Formations:hover {
+        box-shadow: 10px 10px 10px rgb(255 0 0);
+    }
+
+.hauteur {
+    height : 330px
+}
+.Langues {
+    height: 220.10px;
+    margin-right: 30px;
+    margin-left: 50px;
+    box-shadow: 10px 10px 10px rgb(128 128 128);
+    border-radius: 30px;
+    text-align: center;
+    width: 40%;
+    transition: box-shadow 2s;
+    float: center;
+    background-color: darkred;
+}
+    .Langues:hover {
+        box-shadow: 10px 10px 10px rgb(255 0 0);
+    }
+
+.Hobby {
+    height: 220.10px;
+    margin-right: 30px;
+    margin-left: 50px;
+    box-shadow: 10px 10px 10px rgb(128 128 128);
+    border-radius: 30px;
+    text-align: center;
+    width: 40%;
+    transition: box-shadow 2s;
+    float: left;
+    background-color: darkred;
+}
+    .Hobby:hover {
+        box-shadow: 10px 10px 10px rgb(255 0 0);
+    }

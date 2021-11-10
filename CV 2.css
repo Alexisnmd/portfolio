@@ -1,0 +1,29 @@
+header{
+	margin-bottom:3%;
+}
+ul li a {
+color:rgb(0,0,0);
+font-size:3em;
+padding:5px 20px;
+display:inline-flex:;
+text-align:center;
+}
+.body{
+	background-color:#FFDD99;
+}
+.button{
+	margin-top:10%;
+	font-size:50px;
+	width:300px;
+	color: #000000;
+	background-color:#3355FF;
+	padding:1rem;
+	border-radius:3rem;
+}
+.button:hover{
+	color:red;
+}
+.test{
+	margin-top:10%;
+	text-align:center;
+}
