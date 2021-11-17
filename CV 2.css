@@ -9,7 +9,7 @@ display:inline-flex:;
 text-align:center;
 }
 .body{
-	background-color:#FFDD99;
+	background-color:#C0C0C0;
 }
 .button{
 	margin-top:10%;
@@ -25,5 +25,8 @@ text-align:center;
 }
 .test{
 	margin-top:10%;
+	text-align:center;
+}
+.align{
 	text-align:center;
 }
